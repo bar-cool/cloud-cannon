@@ -1,8 +1,10 @@
 _schema: _schema
-source: /
+source: /src/
 paths:
   uploads: uploads
   static: ''
+editor:
+  default_path:
 timezone: Asia/Calcutta
 markdown:
   engine: commonmark
